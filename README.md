@@ -1,4 +1,3 @@
-corr.co
-=======
+My personal website,blog, etc.
 
-Github pages hosting corr.co
+Using https://github.com/railsr/autm-rb as my theme
